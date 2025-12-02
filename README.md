@@ -12,7 +12,6 @@ This study provides a detailed assessment of market risk across major Indian equ
 - Regime-switching models to capture evolving market dynamics
 
 ## Repository Structure
-## Repository Structure
 - **`src/`**: Contains all Python scripts (`collect_data.py`, `process_market_data.py`, etc.).
 - **`data/`**: Stores all CSV data files.
 - **`plots/`**: Stores all generated visualizations.
@@ -51,3 +50,4 @@ The script generates several high-quality plots used in the report:
 
 ## Author
 Tanay Prabhakar | UPES
+
